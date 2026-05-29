@@ -1,0 +1,9 @@
+﻿namespace RedmineApp.Models.DtoModels.User
+{
+    public class AvailableUserDto
+    {
+        public int Id { get; set; }
+        public string Name { get; set; } = string.Empty;
+        public string Email { get; set; } = string.Empty;
+    }
+}

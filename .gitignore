@@ -1,0 +1,13 @@
+# Build results
+bin/
+obj/
+
+# User settings
+*.user
+*.userossc
+.vs/
+.vscode/
+
+# Secrets
+appsettings.Development.json
+.env
